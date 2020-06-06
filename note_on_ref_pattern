@@ -1,0 +1,3 @@
+https://doc.rust-lang.org/stable/rust-by-example/scope/borrow/ref.html
+
+When "ref" is used in a "destructuring", it is actually adding a &, so it is actually "structuring".
